@@ -1,0 +1,11 @@
+*************Github commands************
+
+1) git config --global user.email "your email"
+2) git config --global user.name "your account name"
+3) git config --global --list
+4) git init
+5) git status
+6) git add .
+7) git commit -m "Your message"
+8) git remote add origin https://---your link
+9) git push -u origin master
