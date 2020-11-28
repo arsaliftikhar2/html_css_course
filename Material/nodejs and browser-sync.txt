@@ -1,0 +1,11 @@
+1)check nodejs version
+
+node -v
+
+2) Install local server
+
+npm install -g browser-sync
+
+3) start server
+
+browser-sync start --server --files "*"
